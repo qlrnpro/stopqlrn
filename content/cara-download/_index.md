@@ -1,7 +1,7 @@
 ---
 title: "Cara Download File di Qeluarin"
 date: 2022-11-22T11:35:40+07:00
-draft: true
+draft: false
 image: 'ex.jpg'
 ---
 
@@ -18,7 +18,7 @@ Ikuti langkah berikut ini:
 3. Setelah itu klik "**Next**"
 4. Terakhir, klik "**Download File**" dan kamu akan diarahkan ke halaman download.
 
-Nahh itulah [Cara Download](/cara-download) file di qeluarin, mudah bukan??
+Nahh itulah [Cara Download](/cara-download) file di qeluarin, mudah bukan???
 
 > **!Note** Jika kalian mendownload dari server Mediafire / Anonfiles harap abaikan nama file. Ini sengaja dilakukan guna mencegah penghapusan file yang sudah di-upload.
 
