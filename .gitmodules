@@ -1,0 +1,3 @@
+[submodule "themes/sandra"]
+	path = themes/sandra
+	url = https://github.com/qlrnpro/sandra.git
