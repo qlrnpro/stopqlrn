@@ -14,7 +14,7 @@ Ada berbagai macam koleksi yang tersedia di [qeluarin.com](/), kalian bisa menca
 
 Ikuti langkah berikut ini:
 
-1. Klik salah satu dari 4 link yang tersedia. ```ex: Mediafire, Google Drive, Terabox, Yandex Disk / anonfiles.```
+1. Klik salah satu dari 4 link yang tersedia. ```ex: Mediafire, Google Drive, Terabox, Yandex Disk / anonfiles```.
 2. Jika terbuka halaman baru, tunggu beberapa detik.
 3. Setelah itu klik "**Next**"
 4. Terakhir, klik "**Download File**" dan kamu akan diarahkan ke halaman download.
