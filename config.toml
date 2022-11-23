@@ -14,7 +14,6 @@ pygmentsCodefencesGuessSyntax = true
 [params]
   [permalinks]
     posts = '/:title/'
-    setting = '/:title/'
   [params.designer]
     name = "Qeluarin"
     url = "https://qeluarin.com/"
@@ -54,7 +53,7 @@ pygmentsCodefencesGuessSyntax = true
     url = "tags/abg/"
     weight = 3
   [[menu.main]]
-    name = "Onlyfans"
+    name = "OnlyFans"
     url = "categories/onlyfans/"
     weight = 4
   [[menu.main]]
