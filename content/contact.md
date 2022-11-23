@@ -2,7 +2,9 @@
 title: "Contact Us"
 date: 2022-11-22T13:46:17+07:03
 draft: false
-hidden: true
+_build:
+    list: never
+    render: never
 ---
 
 ## Aduan Konten

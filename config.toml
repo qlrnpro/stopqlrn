@@ -11,6 +11,8 @@ paginate = 8
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 
+disableKinds = ["section"]
+
 [params]
   [permalinks]
     posts = '/:title/'
