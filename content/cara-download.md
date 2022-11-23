@@ -1,7 +1,8 @@
 ---
 title: "Cara Download File di Qeluarin"
 date: 2022-11-22T11:35:40+07:00
-draft: true
+draft: false
+hidden: true
 image: 'ex.jpg'
 ---
 
