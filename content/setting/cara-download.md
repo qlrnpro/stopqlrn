@@ -3,9 +3,6 @@ title: "Cara Download File di Qeluarin"
 date: 2022-11-22T11:35:40+07:00
 draft: false
 image: 'ex.jpg'
-_build:
-    list: never
-    render: never
 ---
 
 ## Step 1. Mencari File

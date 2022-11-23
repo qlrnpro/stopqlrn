@@ -11,11 +11,10 @@ paginate = 8
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 
-disableKinds = ["section"]
-
 [params]
   [permalinks]
     posts = '/:title/'
+    setting = '/:title/'
   [params.designer]
     name = "Qeluarin"
     url = "https://qeluarin.com/"
