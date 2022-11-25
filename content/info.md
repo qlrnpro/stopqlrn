@@ -29,20 +29,22 @@ Ikuti langkah berikut ini:
 3. Setelah itu klik "**Next**"
 4. Terakhir, klik "**Download File**" dan kamu akan diarahkan ke halaman download.
 
-> **!Note** Jika kalian mendownload dari server Mediafire / Anonfiles harap abaikan nama file. Ini sengaja dilakukan guna mencegah penghapusan file yang sudah di-upload.
+> **!Note** Jika kamu mendownload dari server Mediafire / Anonfiles harap abaikan nama file. Ini sengaja dilakukan guna mencegah penghapusan file yang sudah di-upload.
 
 ---
 
 ## Aduan Konten
 
-Ingin request konten / lapor link rusak / penghapusan konten kirim email ke info@qeluarin.com.
+Ingin bertanya-tanya / ~~request konten~~ / lapor link rusak / penghapusan konten kirim email ke info@qeluarin.com.
 
 ## Pasang Iklan
 
-Pasang iklan chat langsung lewat telegram [@skype37](https://t.me/skype37).
+Pasang iklan chat langsung lewat telegram [@entotgaming](https://t.me/entotgaming).
 
 ## Support
 
-Support terus qeluarin agar selalu update konten-konten yang mantap dan menarik lainnya. [Donate lewat ko-fi](https://ko-fi.com/B0B1GEGZX) / [Donate lewat trakteer](https://trakteer.id/qlrn).
+Demi kemudahan dan kenyamanan pengunjung saat mengakses situs [qeluarin](/), mimin usahakan untuk tidak menampilkan iklan dengan jumlah yang terlalu banyak. Supaya akses tidak terganggu. 😇
+
+Maka dari itu support terus qeluarin agar selalu update konten-konten yang mantap dan menarik lainnya. [Donate lewat ko-fi](https://ko-fi.com/B0B1GEGZX) / [Donate lewat trakteer](https://trakteer.id/qlrn).
 
 Yok yok mimin masih butuh dana buat beli hosting yang nantinya akan digunakan untuk web streaming.
