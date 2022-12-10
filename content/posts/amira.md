@@ -17,12 +17,16 @@ Amira namanya, yang satu ini merupakan mahasiswa asal malaysia yang mempunyai tt
 
 > **Join ch telegram [@qeluarin69](https://t.me/qeluarin69).**
 
+---
+
 ## Download
 
 - Filename: **Amira - [qeluarin.com].zip**
 - Size: 515 MB
 - Password: -
 - Information: Foto + Video
+
+Jika ada link error / file tidak ditemukan, lapor [disini](/info/#aduan-konten).
 
 | Link |
 |----------|
@@ -33,3 +37,5 @@ Amira namanya, yang satu ini merupakan mahasiswa asal malaysia yang mempunyai tt
 
 ## Cara Download
 Bingung cara download file di qeluarin? [Baca panduan download](/info/#cara-download-file-di-qeluarin).
+
+---

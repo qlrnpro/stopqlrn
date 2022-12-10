@@ -19,12 +19,16 @@ Ohh iya, btw ini tampilan web baru qeluarin. Jangan lupa share terus biar web in
 
 > **Join ch telegram [@qeluarin69](https://t.me/qeluarin69).**
 
+---
+
 ## Download
 
 - Filename: **Fitri Viral.zip**
 - Size: 83 MB
 - Password: -
 - Information: Foto + Video
+
+Jika ada link error / file tidak ditemukan, lapor [disini](/info/#aduan-konten).
 
 | Link |
 |----------|
@@ -35,3 +39,5 @@ Ohh iya, btw ini tampilan web baru qeluarin. Jangan lupa share terus biar web in
 
 ## Cara Download
 Bingung cara download file di qeluarin? [Baca panduan download](/info/#cara-download-file-di-qeluarin).
+
+---

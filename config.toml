@@ -45,18 +45,30 @@ pygmentsCodefencesGuessSyntax = true
 
 [menu]
   [[menu.main]]
-    name = "Hijab"
-    url = "categories/hijab/"
-    weight = 2
-  [[menu.main]]
     name = "Abg"
     url = "tags/abg/"
+    weight = 2
+  [[menu.main]]
+    name = "Cosplayer"
+    url = "categories/cosplayer/"
     weight = 3
   [[menu.main]]
-    name = "OnlyFans"
-    url = "categories/onlyfans/"
+    name = "Hijab"
+    url = "tags/hijab/"
     weight = 4
   [[menu.main]]
-    name = "Support"
-    url = "support/"
+    name = "Live"
+    url = "categories/live/"
     weight = 5
+  [[menu.main]]
+    name = "Milf"
+    url = "categories/milf/"
+    weight = 6
+  [[menu.main]]
+    name = "Onlyfans"
+    url = "categories/onlyfans/"
+    weight = 7
+  [[menu.main]]
+    name = "Viral"
+    url = "categories/viral/"
+    weight = 8
