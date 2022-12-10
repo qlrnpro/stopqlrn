@@ -13,7 +13,7 @@ categories: ['Indonesia', 'Malaysia', 'Hijab']
 Hi gaes kali ini mimin mau share konten abg nih, namanya Fitri Adeva kalo gasalah. Btw si doi punya tt yang gede dan padet, enak buat di pegang-pegang wkwk.
 
 ## Review
-{{< gallery "../images/fitri1.jpg,../images/fitri2.png,../images/fitri3.png" "Fitri Viral 1::Fitri Viral 2::Fitri Viral 3" >}}
+{{< gallery "../images/posts/fitri1.jpg,../images/posts/fitri2.png,../images/posts/fitri3.png" "Fitri Viral 1::Fitri Viral 2::Fitri Viral 3" >}}
 
 Ohh iya, btw ini tampilan web baru qeluarin. Jangan lupa share terus biar web ini makin rame & mimin semangat upload konten-konten lainnya.😁
 
